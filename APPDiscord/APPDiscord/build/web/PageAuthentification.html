@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>PauDiscord</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <script src="jquery-3.3.1.min.js"></script>
+         <script src="bootstrap-notify.min.js"></script>
+         <script src="bootstrap.min.js"></script>
+         <script src="jquery.bootstrap-growl.min.js"></script>
+         <link rel="stylesheet" type="text/css" href="bootstrap-responsive.min.css">
+         <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+         <link rel="stylesheet" type="text/css" href="styleDiscord.css">
+         <script src="gestionDiscord.js"></script>
+    </head>
+    <body>
+        <div id="formulaireAuthentification">
+            <div id="containAuthentificateur"> 
+            <h5>Pseudo :</h5> <input type="text" name="pseudo" id="unPseudo"><br>
+            <h5>Mot de passe :</h5> <input type="password" name="mdp" id="unMDP"><br>
+
+            <button id="btnValider" type="button">Valider</button>
+
+            <h5 id="redirectionInscription">Inscription</h5>
+            <div id="reponseAuthentification"></div>
+            </div>
+
+        </div>
+        <div id="EcrivezA"></div>
+        <div id="toutlesmessages">
+        <div id="elementServlet"></div>
+        <div id="reponseMessageL3"></div>
+        <div id="reponseMessageTI"></div>
+        
+        </div>
+    </body>
+</html>
