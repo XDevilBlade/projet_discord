@@ -9,8 +9,11 @@ Les technos qu'on doit absolument utiliser :
 
 Les communications entre le serveur et le client peuvent se faire :
 * soit avec :
-- Servlet
-- Ajax
+  - Servlet
+  - Ajax
 
-* ou bien :
-- WebSocket
+* ou bien avec :
+  - WebSocket
+  
+  
+ ##
