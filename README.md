@@ -68,4 +68,4 @@ Les communications entre le serveur et le client peuvent se faire :
 <img src="Images_Discord/notification.PNG" width="800">
 
 ## Remarques :
-Cette application sera refaite avec Angular pour le front et Vert.x pour le back. Aussi, le code n'a pas été refactorisé (du code en mauvais état pour l'instant). Donc, cette version de l'application va changer dans les jours, mois à venir. 
+Cette application sera refaite avec Angular pour le front et Vert.x pour le back. Aussi, le code n'a pas été refactorisé depuis 2017 (du code en mauvais état pour l'instant). Donc, cette version de l'application va changer dans les jours, mois à venir. 
