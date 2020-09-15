@@ -1,0 +1,1 @@
+const ADRESSE_SERVEUR = "http://localhost:8080/";
