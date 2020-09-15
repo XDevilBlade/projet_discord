@@ -31,8 +31,8 @@ Les communications entre le serveur et le client peuvent se faire :
  
  ## Comment installer et utiliser l'application ?
  
- Dans un premier temps vous devez installer l'IDE Netbeans et Java 8.
+ Dans un premier temps, vous devez installer l'IDE Netbeans et Java 8.
  
- Ensuite
+ Ensuite, vous devez ouvrir le projet sur NetBeans.
  
  ## Des screenshoots de l'application :
