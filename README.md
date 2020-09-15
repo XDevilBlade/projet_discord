@@ -31,8 +31,14 @@ Les communications entre le serveur et le client peuvent se faire :
  
  ## Comment installer et utiliser l'application ?
  
- Dans un premier temps, vous devez installer l'IDE Netbeans et Java 8.
- 
- Ensuite, vous devez ouvrir le projet sur NetBeans.
- 
+ * installer l'IDE Netbeans et Java 8
+ * ouvrir le projet sur NetBeans
+ * démarrer votre serveur de base de données
+ * lancer le script Java "createDBAndTables" qui se trouve à cet endroit "projet_discord/APPDiscord/src/java/createDB/". Il va créer la base de données et l'alimenter avec des      comptes utilisateurs de test
+ * installer dans l'IDE un serveur "GlassFish" et démarrer le
+ * dans le dossier web ("projet_discord/APPDiscord/web/") vous avez un fichier "configuration.js", vous devrez renseigner l'adresse de votre serveur "GlassFish"
+ * lancer le fichier "pageAuthentification" ("projet_discord/APPDiscord/web/")
+
  ## Des screenshoots de l'application :
+ 
+ 
