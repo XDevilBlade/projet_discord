@@ -15,5 +15,24 @@ Les communications entre le serveur et le client peuvent se faire :
 * ou bien avec :
   - WebSocket
   
-  
- ##
+ ## Technos utilisées :
+
+ * JDBC
+ * Hibernate
+ * Entity Beans
+ * WebSocket
+ * Ajax
+ * API Rest
+ * Servlet
+ * Bootstrap
+ * jQuery
+ * IDE : NetBeans 8.2
+ * Langages de programmation utilisés : JAVA 8, HTML5, CSS3, JS
+ 
+ ## Comment installer et utiliser l'application ?
+ 
+ Dans un premier temps vous devez installer l'IDE Netbeans et Java 8.
+ 
+ Ensuite
+ 
+ ## Des screenshoots de l'application :
