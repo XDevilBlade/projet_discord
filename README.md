@@ -40,5 +40,32 @@ Les communications entre le serveur et le client peuvent se faire :
  * lancer le fichier "pageAuthentification" ("projet_discord/APPDiscord/web/")
 
  ## Des screenshoots de l'application :
+ ### Page d'authentification :
+ <img src="Images_Discord/page_authentification.PNG" width="800">
  
+### Page d'inscription :
+ <img src="Images_Discord/pageInscription.PNG" width="800">
  
+ * lorsqu'un champ n'a pas été rempli lors de l'inscription :
+ <img src="Images_Discord/pageInscription2.PNG" width="800">
+ 
+ * pseudo déjà utilisé :
+ <img src="Images_Discord/pageInscription3.PNG" width="800">
+ 
+ * inscription réussie :
+ <img src="Images_Discord/pageInscription4.PNG" width="800">
+ 
+### Page d'accueil sur laquelle on tombe après s'être connecté : 
+<img src="Images_Discord/page_authentification.PNG" width="800">
+
+### Page qui permet à une personne de parler à d'autres personnes :
+<img src="Images_Discord/tchat.PNG" width="800">
+
+### Page qui permet à une personne de jouer au jeu des paires :
+<img src="Images_Discord/jeu.PNG" width="800">
+
+### Notification qui apparait lorsque vous recevez un message :
+<img src="Images_Discord/notification.PNG" width="800">
+
+## Remarques :
+Cette application sera refaite avec Angular pour le front et Vert.x pour le back. Aussi, le code n'a pas été refactorisé depuis 2017 (du code en mauvais état pour l'instant). Donc, cette version de l'application va changer dans les jours, mois à venir. 
