@@ -46,13 +46,13 @@ Les communications entre le serveur et le client peuvent se faire :
 ### Page d'inscription :
  <img src="Images_Discord/pageInscription.PNG" width="800">
  
- * lorsqu'un n'a pas été rempli lors de l'inscription :
+ * lorsqu'un champ n'a pas été rempli lors de l'inscription :
  <img src="Images_Discord/pageInscription2.PNG" width="800">
  
  * pseudo déjà utilisé :
  <img src="Images_Discord/pageInscription3.PNG" width="800">
  
- * authentification réussie :
+ * inscription réussie :
  <img src="Images_Discord/pageInscription4.PNG" width="800">
  
 ### Page d'accueil sur laquelle on tombe après s'être connecté : 
