@@ -43,7 +43,7 @@ Les communications entre le serveur et le client peuvent se faire :
  ### Page d'authentification :
  <img src="Images_Discord/page_authentification.PNG" width="800">
  
-### Page d'authentification :
+### Page d'inscription :
  <img src="Images_Discord/pageInscription.PNG" width="800">
  
  * lorsqu'un n'a pas été rempli lors de l'inscription :
