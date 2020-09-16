@@ -39,7 +39,7 @@ Les communications entre le serveur et le client peuvent se faire :
  * dans le dossier web ("projet_discord/APPDiscord/web/") vous avez un fichier "configuration.js", vous devrez renseigner l'adresse de votre serveur "GlassFish"
  * lancer le fichier "pageAuthentification" ("projet_discord/APPDiscord/web/")
 
- ## Des screenshoots de l'application :
+ ## Des screenshots de l'application :
  ### Page d'authentification :
  <img src="Images_Discord/page_authentification.PNG" width="800">
  
