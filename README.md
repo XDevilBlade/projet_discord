@@ -1,7 +1,5 @@
 # projet_discord
 
-Création d'une application d'une application de messagerie.
-
 ## Context du projet
 
 Faire une application web qui devait reprendre les fonctionnalités fondamentales de "Discord" (création de groupes de discussion / pouvoir converser avec une personne directement). La partie serveur doit être développée en JAVA et la partie client en HTML, JS, CSS.
