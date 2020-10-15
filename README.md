@@ -26,6 +26,7 @@ Les communications entre le serveur et le client peuvent se faire :
  * Servlet
  * Bootstrap
  * jQuery
+ * JSP
  * IDE : NetBeans 8.2
  * Langages de programmation utilisés : JAVA 8, HTML5, CSS3, JS
  
